@@ -11,7 +11,7 @@ const GameCard = ({ titulo, preco, imagem }) => {
         <button className="bg-gradient-to-r from-cyan-400
         to-purple-600 w-[50%] py-4 px-4 rounded-[20px]
         border-none cursor-pointer font-semibold transition-transform
-        duration-300 hover:bg-green-600 hover:text-white 
+        duration-300 hover:bg-green-600 hover:text-white
         hover:scale-105">
           Comprar
         </button>
@@ -22,3 +22,4 @@ const GameCard = ({ titulo, preco, imagem }) => {
 }
 
 export default GameCard
+
