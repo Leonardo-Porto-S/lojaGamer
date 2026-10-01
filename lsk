@@ -1,0 +1,17 @@
+[33mcommit 931df737cb4559a24eab48ecaab9e774179efa90[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Laboratório FIAP <labsfiap@fiap.com.br>
+Date:   Thu Sep 24 09:47:31 2026 -0300
+
+    feat: Codificando e estilizando o Header
+
+[33mcommit a8a3d4f3c14000b7bea13ced11175515778ae783[m
+Author: Laboratório FIAP <labsfiap@fiap.com.br>
+Date:   Thu Sep 24 08:58:55 2026 -0300
+
+    feat: Codificando as rotas e tailwindcss App.jsx
+
+[33mcommit 6b90731ba4303a4ed89c259ab4abe42979574023[m
+Author: Laboratório FIAP <labsfiap@fiap.com.br>
+Date:   Thu Sep 24 08:38:46 2026 -0300
+
+    chore: estrutura do projeto  e configuração tailwind
